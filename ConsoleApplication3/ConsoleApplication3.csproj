@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\colors.txt" />
+    <Content Include="Data\colorUsed.txt" />
     <Content Include="Data\output.txt" />
     <Content Include="Data\source.txt" />
   </ItemGroup>
